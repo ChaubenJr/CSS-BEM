@@ -1,0 +1,1 @@
+Usando a metodologia BEM nas classes e no css
