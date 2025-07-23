@@ -11,17 +11,17 @@
     grid-template-columns: 33% 33% 33%;
     grid-column-gap: 1%;
 }
-.produtos_produto-imagem {
+.produtos__produto-imagem {
     width: 100%;
 }
-.produtos_produto-nome {
+.produtos__produto-nome {
     font-size: 1.2em;
     margin: 8px 0;
 }
-.produtos_produto-descricao {
+.produtos__produto-descricao {
     color: gray;
 }
-.produtos_produto--destaque {
+.produtos__produto--destaque {
     border: 2px solid gold;
     padding: 8px;
     background-color: #ffff42;
